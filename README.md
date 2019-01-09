@@ -1,6 +1,8 @@
-## cbfs-admin
+## cbfs-ui
 
 An administrative interface for cbfs
+
+- connect to couchbase-event-sdk via couchbase-es
 
 ### Screenshot
 
